@@ -1,0 +1,4 @@
+"{ username: 'Admin', password: '1' }",
+"{ username: 'Owner', password: '1' }",
+"{ username: 'Reseler', password: '1' }",
+"{ username: 'Buyer', password: '1' }",
