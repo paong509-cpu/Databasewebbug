@@ -1,4 +1,16 @@
-"{ username: 'Admin', password: '1' }",
-"{ username: 'Owner', password: '1' }",
-"{ username: 'Reseler', password: '1' }",
-"{ username: 'Buyer', password: '1' }",
+[ 
+ { 
+   "username": "Admin",
+   "password": "1",
+   "expiry": 1815350400000,
+   "createdBy": "paong",
+   "createdAt": 1761483466054 
+   }, 
+   { 
+   "username": "owner",
+   "password": "1",
+   "expiry": "permanent",
+   "createdBy": "EzraOfficiall",
+   "createdAt": 1761633232557 
+  } 
+]
